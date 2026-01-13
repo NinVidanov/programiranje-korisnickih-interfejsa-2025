@@ -1,2 +1,5 @@
-# programiranje-korisnickih-interfejsa-2025
-Source code iz projekta za predmet programiranje-korisnickih-interfejsa-2025
+Tehnologije
+-Angular 20
+-Bootstrap 5
+-FontAwesome 7
+-Axios HTTP
